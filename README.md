@@ -68,7 +68,7 @@ Port 8080 → on whitelist → ignored                                ✓
 
 ## Download
 
-Pre-built binaries are available on the [releases page](https://github.com/TheHolyOneZ/ZPortGuard/releases) and at [zsync.eu/zportguard](https://zsync.eu/zportguard).
+Pre-built binaries are available on [zsync.eu/zportguard](https://zsync.eu/zportguard).
 
 | OS | Format | Notes |
 |---|---|---|
